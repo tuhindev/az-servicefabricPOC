@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <IsServiceFabricServiceProject>True</IsServiceFabricServiceProject>
+    <RuntimeIdentifier>win7-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GenFu" Version="1.4.22" />
+    <PackageReference Include="Microsoft.ServiceFabric" Version="6.3.176" />
+    <PackageReference Include="Microsoft.ServiceFabric.Data" Version="3.2.176" />
+    <PackageReference Include="Microsoft.ServiceFabric.Services" Version="3.2.176" />
+    <PackageReference Include="Microsoft.ServiceFabric.Services.Remoting" Version="3.2.176" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyEcommerceApp.ProductCatalogue.Models\MyEcommerceApp.ProductCatalogue.Models.csproj" />
+  </ItemGroup>
+
+</Project>

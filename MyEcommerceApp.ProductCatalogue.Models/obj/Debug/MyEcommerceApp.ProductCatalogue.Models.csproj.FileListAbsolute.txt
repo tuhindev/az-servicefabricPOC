@@ -1,0 +1,6 @@
+C:\Users\tuhin.sarkar\Documents\Visual Studio 2017\Projects\MyEcommerceApp\MyEcommerceApp.ProductCatalogue.Models\bin\Debug\MyEcommerceApp.ProductCatalogue.Models.dll
+C:\Users\tuhin.sarkar\Documents\Visual Studio 2017\Projects\MyEcommerceApp\MyEcommerceApp.ProductCatalogue.Models\bin\Debug\MyEcommerceApp.ProductCatalogue.Models.pdb
+C:\Users\tuhin.sarkar\Documents\Visual Studio 2017\Projects\MyEcommerceApp\MyEcommerceApp.ProductCatalogue.Models\obj\Debug\MyEcommerceApp.ProductCatalogue.Models.csprojAssemblyReference.cache
+C:\Users\tuhin.sarkar\Documents\Visual Studio 2017\Projects\MyEcommerceApp\MyEcommerceApp.ProductCatalogue.Models\obj\Debug\MyEcommerceApp.ProductCatalogue.Models.csproj.CoreCompileInputs.cache
+C:\Users\tuhin.sarkar\Documents\Visual Studio 2017\Projects\MyEcommerceApp\MyEcommerceApp.ProductCatalogue.Models\obj\Debug\MyEcommerceApp.ProductCatalogue.Models.dll
+C:\Users\tuhin.sarkar\Documents\Visual Studio 2017\Projects\MyEcommerceApp\MyEcommerceApp.ProductCatalogue.Models\obj\Debug\MyEcommerceApp.ProductCatalogue.Models.pdb
